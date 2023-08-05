@@ -1,6 +1,6 @@
 module.exports = {
     // base: "/english-note/",
-    base: "/docs/dist/",
+    base: "/",
     // 站点配置
     lang: 'zh-CN',
     title: '英语语法笔记',
